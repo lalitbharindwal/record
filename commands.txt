@@ -1,0 +1,17 @@
+django-admin startproject vmaxinfo_crm
+python -m pip install Django
+python3 -m venv dev-env
+
+
+
+
+
+
+
+*************Use there Commands*************
+dev-env\Scripts\Activate.ps1
+cd vmaxinfo_crm
+python manage.py runserver
+
+
+deactivate
